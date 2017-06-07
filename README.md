@@ -1,2 +1,0 @@
-# com
-GitHub Pages
